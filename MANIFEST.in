@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include silverlining_nepal *.css
+recursive-include silverlining_nepal *.csv
+recursive-include silverlining_nepal *.html
+recursive-include silverlining_nepal *.ico
+recursive-include silverlining_nepal *.js
+recursive-include silverlining_nepal *.json
+recursive-include silverlining_nepal *.md
+recursive-include silverlining_nepal *.png
+recursive-include silverlining_nepal *.py
+recursive-include silverlining_nepal *.svg
+recursive-include silverlining_nepal *.txt
+recursive-exclude silverlining_nepal *.pyc
